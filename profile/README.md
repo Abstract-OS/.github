@@ -1,6 +1,10 @@
 # 🤯 [Abstract-OS](https://abstract.money)
  ⚛️ The Android-OS of the Cosmos ⚛️
-## 🗄️ Repositories
+
+## 🗄️ Links
+
+### 👾 [Discord](https://discord.gg/uch3Tq3aym)
+Join our discord to connect with other developers.
 
 ### 🧰 [BOOT](https://github.com/Abstract-OS/BOOT)
 Scripting and testing tool for CosmWasm smart-contracts. 
