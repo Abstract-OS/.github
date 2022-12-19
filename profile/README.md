@@ -1,5 +1,5 @@
-# 🤯 [Abstract-OS](https://abstract.money)
- ⚛️ The Android-OS of the Cosmos ⚛️
+# [Abstract-OS](https://abstract.money)
+ ⚛️ The CosmWasm developement platform of the Cosmos ⚛️
 
 ## 🗄️ Links
 
